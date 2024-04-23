@@ -6,5 +6,10 @@ public class Ejemplo {
 		System.out.println("hola mundo");
 
 	}
+	
+	
+	String rama2 () {
+		return "rama2";
+	}
 
 }
