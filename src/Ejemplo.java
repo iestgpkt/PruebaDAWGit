@@ -6,5 +6,9 @@ public class Ejemplo {
 		System.out.println("hola mundo");
 
 	}
+	
+	String rama1 () {
+		return "Rama 1";
+	}
 
 }
