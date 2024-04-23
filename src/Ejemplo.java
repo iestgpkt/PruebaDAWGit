@@ -7,8 +7,13 @@ public class Ejemplo {
 
 	}
 	
+
 	String rama1 () {
 		return "Rama 1";
+	}
+	
+	String rama2 () {
+		return "rama2";
 	}
 
 }
